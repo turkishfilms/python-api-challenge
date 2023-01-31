@@ -65,12 +65,17 @@ Module 6 Challenge filesLinks to an external site.
 Instructions
 This activity is broken down into two deliverables, WeatherPy and
  VacationPy.
+ //////////////////////////////////////////////////////////////////////
+ //////////////////////////////////////////////////////////////////////
+ //////////////////////////////////////////////////////////////////////
+
+
+
 
 Part 1: WeatherPy
 In this deliverable, you'll create a Python script to visualize 
 the weather of over 500 cities of varying distances from the equator.
- You'll use the citipy Python library Links to an external site., 
- the OpenWeatherMap API Links to an external site., and your 
+ You'll use the citipy Python library, the OpenWeatherMap API, and your 
  problem-solving skills to create a representative model of weather 
  across cities.
 
@@ -82,6 +87,7 @@ in the starter code ZIP file. The starter code will guide you through
 To get started, the code required to generate random geographic 
 coordinates and the nearest city to each latitude and longitude
  combination is provided.
+////
 
 Requirement 1: Create Plots to Showcase the Relationship Between
  Weather Variables and Latitude
